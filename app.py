@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 # --- Konfigurasi Firebase ---
 # PASTIKAN INI MASIH KONFIGURASI ANDA
 config = {
-  "apiKey": "AIzaSyBUECKqv35xEWzfJPSsH_U0xQghB9Cn4fo",
+  "apiKey": os.environ.get("FIREBASE_API_KEY"),
   "authDomain": os.environ.get("FIREBASE_AUTH_DOMAIN"),
   "databaseURL": os.environ.get("FIREBASE_DB_URL"),
   "projectId": os.environ.get("FIREBASE_PROJECT_ID"),
