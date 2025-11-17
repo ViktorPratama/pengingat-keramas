@@ -1,0 +1,44 @@
+Database : https://pengingatkeramas-default-rtdb.firebaseio.com/
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyBUECKqv35xEWzfJPSsH_U0xQghB9Cn4fo",
+  authDomain: "pengingatkeramas.firebaseapp.com",
+  databaseURL: "https://pengingatkeramas-default-rtdb.firebaseio.com",
+  projectId: "pengingatkeramas",
+  storageBucket: "pengingatkeramas.firebasestorage.app",
+  messagingSenderId: "934466840812",
+  appId: "1:934466840812:web:43a335d109aff118a05dc9",
+  measurementId: "G-E6R593SMTV"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+
+
+  "messagingSenderId": "934466840812",
+  "appId": "1:934466840812:web:43a335d109aff118a05dc9",
+  "measurementId": "G-E6R593SMTV"
+
+
+
+  TOKEN IP BOTKERAMAS : 
+Done! Congratulations on your new bot. You will find it at t.me/KeramasBot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+8425719145:AAEf1MLFHiRucBqBGjmW4P-uaE_d8aAuevc
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+BOT TOKEN : 8425719145:AAEf1MLFHiRucBqBGjmW4P-uaE_d8aAuevc
+CHAT_ID : 6342167518
